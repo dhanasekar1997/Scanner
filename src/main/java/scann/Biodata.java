@@ -2,7 +2,7 @@ package scann;
 
 import java.util.Scanner;
 
-public class App
+public class Biodata
 {
         public static void main(String[] args)
         {
@@ -39,7 +39,6 @@ public class App
             System.out.println("Enter the Position");
             String pos=scan.nextLine();
             System.out.println("ROLE:-"+pos);
-
-
         }
         }
+
